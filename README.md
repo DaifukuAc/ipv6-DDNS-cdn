@@ -1,1 +1,1 @@
-# ipv6DDNS-cdn
+# ipv6DDNS+cdn
