@@ -52,6 +52,10 @@ InterfaceName = 您的网络接口名称
 要运行脚本，只需用 Python 执行它：
 
 ```bash
+pip install -r requirements.txt
+```
+
+```bash
 python ddns+edge one.py
 ```
 
